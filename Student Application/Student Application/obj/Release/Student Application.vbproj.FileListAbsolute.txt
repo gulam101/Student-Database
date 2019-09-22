@@ -1,0 +1,12 @@
+C:\Users\Gulam\Desktop\Gulam Work\Student Application\Student Application\bin\Release\Student Application.exe.config
+C:\Users\Gulam\Desktop\Gulam Work\Student Application\Student Application\bin\Release\Student Application.exe
+C:\Users\Gulam\Desktop\Gulam Work\Student Application\Student Application\bin\Release\Student Application.pdb
+C:\Users\Gulam\Desktop\Gulam Work\Student Application\Student Application\bin\Release\Student Application.xml
+C:\Users\Gulam\Desktop\Gulam Work\Student Application\Student Application\obj\Release\Student_Application.HelpSection.resources
+C:\Users\Gulam\Desktop\Gulam Work\Student Application\Student Application\obj\Release\Student_Application.Resources.resources
+C:\Users\Gulam\Desktop\Gulam Work\Student Application\Student Application\obj\Release\Student Application.vbproj.GenerateResource.cache
+C:\Users\Gulam\Desktop\Gulam Work\Student Application\Student Application\obj\Release\Student Application.vbproj.CoreCompileInputs.cache
+C:\Users\Gulam\Desktop\Gulam Work\Student Application\Student Application\obj\Release\Student Application.exe
+C:\Users\Gulam\Desktop\Gulam Work\Student Application\Student Application\obj\Release\Student Application.xml
+C:\Users\Gulam\Desktop\Gulam Work\Student Application\Student Application\obj\Release\Student Application.pdb
+C:\Users\Gulam\Desktop\Gulam Work\Student Application\Student Application\obj\Release\Student_Application.MainMenu.resources

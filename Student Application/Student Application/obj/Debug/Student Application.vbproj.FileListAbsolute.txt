@@ -1,0 +1,13 @@
+C:\Users\Gulam\Desktop\Gulam Work\Student Application\Student Application\bin\Debug\Student Application.exe.config
+C:\Users\Gulam\Desktop\Gulam Work\Student Application\Student Application\bin\Debug\Student Application.exe
+C:\Users\Gulam\Desktop\Gulam Work\Student Application\Student Application\bin\Debug\Student Application.pdb
+C:\Users\Gulam\Desktop\Gulam Work\Student Application\Student Application\bin\Debug\Student Application.xml
+C:\Users\Gulam\Desktop\Gulam Work\Student Application\Student Application\obj\Debug\Student Application.vbprojAssemblyReference.cache
+C:\Users\Gulam\Desktop\Gulam Work\Student Application\Student Application\obj\Debug\Student_Application.Resources.resources
+C:\Users\Gulam\Desktop\Gulam Work\Student Application\Student Application\obj\Debug\Student Application.vbproj.GenerateResource.cache
+C:\Users\Gulam\Desktop\Gulam Work\Student Application\Student Application\obj\Debug\Student Application.vbproj.CoreCompileInputs.cache
+C:\Users\Gulam\Desktop\Gulam Work\Student Application\Student Application\obj\Debug\Student Application.exe
+C:\Users\Gulam\Desktop\Gulam Work\Student Application\Student Application\obj\Debug\Student Application.xml
+C:\Users\Gulam\Desktop\Gulam Work\Student Application\Student Application\obj\Debug\Student Application.pdb
+C:\Users\Gulam\Desktop\Gulam Work\Student Application\Student Application\obj\Debug\Student_Application.HelpSection.resources
+C:\Users\Gulam\Desktop\Gulam Work\Student Application\Student Application\obj\Debug\Student_Application.MainMenu.resources
