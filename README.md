@@ -11,5 +11,4 @@ We then had to showcase it to other people in the class and they had to pretend 
 
 Since we used VB and Access (Not SQL) they had to have an interface that was simple to use and easy to understand. 
 
-Issues with this project:
-The applicaion wouldn't save students information and it did only if Visual Studio had the mode set to 'release' instead of 'debugging'.
+Constraints: The applicaion wouldn't save students information and it did only if Visual Studio had the mode set to 'release' instead of 'debugging'.
