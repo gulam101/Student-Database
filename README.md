@@ -1,9 +1,7 @@
 # College-Student-Database
 Student database in VB
 
-What this project is about?
-
-In college we had to pretend that we were a company and had to design an application for a school that tracks their data about the students who are going on a school tripp.
+Description: In college we had to pretend that we were a company and had to design an application for a school that tracks their data about the students who are going on a school tripp.
 If a student was sick then they had to be informed by the applicaion on the database. If they were underaged then they need permission of the parents.
 
 Techology stack used:
