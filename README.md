@@ -1,8 +1,7 @@
 # College-Student-Database
 Student database in VB
 
-Description: In college we had to pretend that we were a company and had to design an application for a school that tracks their data about the students who are going on a school tripp.
-If a student was sick then they had to be informed by the applicaion on the database. If they were underaged then they need permission of the parents.
+Description: For this project we had to design an application that would allow the school to keep track of the students by allowing them to save their information on a database. This information would also allow them to assess if they need parental consent if they were allowed to go on the school trip. If they were above 18 then they didn't need their parents consent. 
 
 Techology stack used:
 VB and Microsoft Access
