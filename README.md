@@ -15,22 +15,20 @@ We then had to showcase it to other people in the class and they acted like the 
 ![IMG004](https://user-images.githubusercontent.com/45819118/71086443-dd009980-2191-11ea-99d5-6f6ff539e21d.PNG)
 
 
-## What I learnt: ##
+### What I learnt:
 - How to store data using Microsoft Access
-- Further understanding of Microsoft Acess
+- Further understanding of Microsoft Access
 - Further understanding of VB.Net
 - How to use Visual Studio and connect to a DB
 
-## Technology stack used: ##
+### Technology stack used:
 
 VB.Net and Microsoft Access
 
-Since we used VB and Access, they had to have an interface that was simple to use and easy to understand. 
-
-## Constraints: ##
+### Constraints: 
 
 The application wouldn't save students information and it did only if Visual Studio had the mode set to 'release' instead of 'debugging'. Another constraint was that the application would have a crash handler if it was not set in Visual Studio 2017. So other versions of Visual Studio won't work this this application.
 
-## Improvements: ##
+### Improvements:
 
 For future improvements I think I will go ahead and re-design the interface. Everything seems too small and clustered together and this will make it hard for people to read the application. Also the application can resize but it effects everything on the screen since the interface isn't resized.
