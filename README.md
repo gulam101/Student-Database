@@ -28,3 +28,7 @@ Since we used VB and Access, they had to have an interface that was simple to us
 ## Constraints: ##
 
 The application wouldn't save students information and it did only if Visual Studio had the mode set to 'release' instead of 'debugging'. Another constraint was that the application would have a crash handler if it was not set in Visual Studio 2017. So other versions of Visual Studio won't work this this application.
+
+## Improvements: ##
+
+For future improvements I think I will go ahead and re-design the interface. Everything seems too small and clustered together and this will make it hard for people to read the application. Also the application can resize but it effects everything on the screen since the interface isn't resized.
