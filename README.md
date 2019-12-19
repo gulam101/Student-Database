@@ -16,8 +16,10 @@ We then had to showcase it to other people in the class and they acted like the 
 
 
 ## What I learnt: ##
-
-In this project I learnt how to use Microsoft Access and create a database that would store information. I also improved my knowledge on VB.Net.
+- How to store data using Microsoft Access
+- Further understanding of Microsoft Acess
+- Further understanding of VB.Net
+- How to use Visual Studio and connect to a DB
 
 ## Technology stack used: ##
 
