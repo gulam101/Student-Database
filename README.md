@@ -1,6 +1,4 @@
-# College-Student-Database
-
-## Student database in VB.Net ##
+# Student database in VB.Net #
 
 ## Description: ##
 
