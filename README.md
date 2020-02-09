@@ -37,7 +37,9 @@
 <a name="Credits"/>
 ### Description: 
 
-This project I did for college was about increasing my knowledge in Windows Standard Form. I was 
+For this project we had to design an application that would allow the school to keep track of the students by allowing them to save their information on a database. This information would also allow them to assess if they need parental consent if they could go on the school trip. If they were above 18 then they didn't need their parents’ consent.
+
+We then had to showcase it to other people in the class and they acted like the client. They gave feedback and requested changes to made where necessary.
 
 ### Prerequisites:
 
@@ -60,10 +62,6 @@ This project I did for college was about increasing my knowledge in Windows Stan
 
 
 ## Description: ##
-
-For this project we had to design an application that would allow the school to keep track of the students by allowing them to save their information on a database. This information would also allow them to assess if they need parental consent if they could go on the school trip. If they were above 18 then they didn't need their parents’ consent.
-
-We then had to showcase it to other people in the class and they acted like the client. They gave feedback and requested changes to made where necessary.
 
 ![IMG001](https://user-images.githubusercontent.com/45819118/71086439-dc680300-2191-11ea-901c-245fe32265bb.PNG)
 
