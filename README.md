@@ -42,6 +42,8 @@ For this project we had to design an application that would allow the school to 
 We then had to showcase it to other people in the class and they acted like the client. They gave feedback and requested changes to made where necessary.
 
 ### Prerequisites:
+- Visual Studio 2017+ (Recommended 2019)
+- Windows 10 (OS)
 
 ### Instructions:
 
