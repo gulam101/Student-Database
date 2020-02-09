@@ -48,8 +48,13 @@ We then had to showcase it to other people in the class and they acted like the 
 ### Instructions:
 
 ### What I learned:
+- How to store data using Microsoft Access
+- Further understanding of Microsoft Access
+- Further understanding of VB.Net
+- How to use Visual Studio and connect to a DB
 
 ### Constraints:
+The application wouldn't save students information and it did only if Visual Studio had the mode set to 'release' instead of 'debugging'. Another constraint was that the application would have a crash handler if it was not set in Visual Studio 2017. So other versions of Visual Studio won't work this this application.
 
 ### Improvements:
 
@@ -68,27 +73,8 @@ We then had to showcase it to other people in the class and they acted like the 
 ![IMG004](https://user-images.githubusercontent.com/45819118/71086443-dd009980-2191-11ea-99d5-6f6ff539e21d.PNG)
 
 
-### Credits:
-
-
-
-## Description: ##
-
-
-
-### What I learnt:
-- How to store data using Microsoft Access
-- Further understanding of Microsoft Access
-- Further understanding of VB.Net
-- How to use Visual Studio and connect to a DB
-
-### Technology stack used:
-
-VB.Net and Microsoft Access
-
 ### Constraints: 
 
-The application wouldn't save students information and it did only if Visual Studio had the mode set to 'release' instead of 'debugging'. Another constraint was that the application would have a crash handler if it was not set in Visual Studio 2017. So other versions of Visual Studio won't work this this application.
 
 ### Improvements:
 
