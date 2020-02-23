@@ -85,7 +85,6 @@ In this development phrase, I had completed the application but was finishing of
 - https://docs.microsoft.com/en-us/dotnet/visual-basic/ (Guideline)
 
 ### Screenshots:
-
 ![IMG001](https://user-images.githubusercontent.com/45819118/71086439-dc680300-2191-11ea-901c-245fe32265bb.PNG)
 
 ![IMG002](https://user-images.githubusercontent.com/45819118/71086441-dc680300-2191-11ea-9e27-59778ea6b0b4.PNG)
