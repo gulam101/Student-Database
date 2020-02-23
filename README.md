@@ -35,8 +35,8 @@
 
 [Credits](#Credits)  
 <a name="Credits"/>
-### Description:
 
+### Description:
 For this project, we had to pretend we were a company that was going to design an application that would allow schools to keep track of the students by allowing them to save their information on a database. Within this database the schools could edit this information and allow them to make the changes according to the student and these changes would be tracked across the system. 
 
 As one of the developers, on the project we used VB.Net because this language was easy to understand. Another big point was because the college had taught us this language, so we had to use this in order to complete the project. We also opted for Microsoft Access because we had experience in using it, but I think it would have been better to use SQL Management Studio. But the college computers couldn’t handle these types of software’s. 
