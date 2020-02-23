@@ -35,11 +35,13 @@
 
 [Credits](#Credits)  
 <a name="Credits"/>
-### Description: 
+### Description:
 
-For this project we had to design an application that would allow the school to keep track of the students by allowing them to save their information on a database. This information would also allow them to assess if they need parental consent if they could go on the school trip. If they were above 18 then they didn't need their parents’ consent.
+For this project, we had to pretend we were a company that was going to design an application that would allow schools to keep track of the students by allowing them to save their information on a database. Within this database the schools could edit this information and allow them to make the changes according to the student and these changes would be tracked across the system. 
 
-We then had to showcase it to other people in the class and they acted like the client. They gave feedback and requested changes to made where necessary.
+As one of the developers, on the project we used VB.Net because this language was easy to understand. Another big point was because the college had taught us this language, so we had to use this in order to complete the project. We also opted for Microsoft Access because we had experience in using it, but I think it would have been better to use SQL Management Studio. But the college computers couldn’t handle these types of software’s. 
+
+This information would also allow them to assess if they need parental consent if they could go on the school trip. The software would split the people who were under 18 and those who were above the age would be on a different database which could be access at any time. It stored the information without clashing those who were under 18 and those who were above.  If they were above 18 then they didn't need their parents’ consent.
 
 ### Prerequisites:
 - Visual Studio 2017+ (Recommended 2019)
