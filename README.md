@@ -46,6 +46,13 @@ We then had to showcase it to other people in the class and they acted like the 
 - Windows 10 (OS)
 
 ### Instructions:
+- Step 1: Download Visual Studio (If you don't have already)
+- Step 2: Clone this project
+- Step 3: Once downloading is finished, open it up using Visual Studio
+- Step 4: Click run at the top and the application will run
+- Step 5: It will launch the application
+- Step 6: Change the launch settings from debug to release
+- Step 7: Enter information into database and save
 
 ### What I learned:
 - How to store data using Microsoft Access
