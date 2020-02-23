@@ -84,8 +84,6 @@ This is the improvement section. I order all improvements by an ID which I can r
 - Improvement ID:
 - Description: 
 
-For future improvements I think I will go ahead and re-design the interface. Everything seems too small and clustered together and this will make it hard for people to read the application. Also the application can resize but it effects everything on the screen since the interface isn't resized.
-
 ### Resources:
 - https://docs.microsoft.com/en-us/dotnet/visual-basic/ (Guideline)
 
