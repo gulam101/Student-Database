@@ -77,7 +77,6 @@ In this development phrase, I had completed the application but was finishing of
 
 ### Constraints: 
 
-
 ### Improvements:
 
 This is the improvement section. I order all improvements by an ID which I can refer to at any time and I give a description of what that improvement should be.
@@ -88,6 +87,7 @@ This is the improvement section. I order all improvements by an ID which I can r
 For future improvements I think I will go ahead and re-design the interface. Everything seems too small and clustered together and this will make it hard for people to read the application. Also the application can resize but it effects everything on the screen since the interface isn't resized.
 
 ### Resources:
+- https://docs.microsoft.com/en-us/dotnet/visual-basic/ (Guideline)
 
 ### Screenshots:
 
