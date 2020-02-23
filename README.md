@@ -54,6 +54,9 @@ We then had to showcase it to other people in the class and they acted like the 
 - Step 6: Change the launch settings from debug to release
 - Step 7: Enter information into database and save
 
+### Planned Features:
+I will not be making any changes to this project in the feature
+
 ### What I learned:
 - How to store data using Microsoft Access
 - Further understanding of Microsoft Access
