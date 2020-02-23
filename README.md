@@ -70,6 +70,11 @@ The application wouldn't save students information and it did only if Visual Stu
 
 ### Development Changes:
 
+- Date: 23/02/20
+- Changes: Readme
+
+In this development phrase, I had completed the application but was finishing off the Readme.
+
 ### Resources:
 
 ### Screenshots:
