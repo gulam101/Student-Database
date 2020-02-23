@@ -70,22 +70,16 @@ I will not be making any changes to this project in the feature
 The application wouldn't save students information and it did only if Visual Studio had the mode set to 'release' instead of 'debugging'. Another constraint was that the application would have a crash handler if it was not set in Visual Studio 2017. So other versions of Visual Studio won't work this this application.
 
 ### Improvements:
-
-### Development Changes:
-
-- Date: 23/02/20
-- Changes: Readme
-
-In this development phrase, I had completed the application but was finishing off the Readme.
-
-### Constraints: 
-
-### Improvements:
-
 This is the improvement section. I order all improvements by an ID which I can refer to at any time and I give a description of what that improvement should be.
 
 - Improvement ID:
 - Description: 
+
+### Development Changes:
+- Date: 23/02/20
+- Changes: Readme
+
+In this development phrase, I had completed the application but was finishing off the Readme.
 
 ### Resources:
 - https://docs.microsoft.com/en-us/dotnet/visual-basic/ (Guideline)
