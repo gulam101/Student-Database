@@ -94,3 +94,6 @@ For future improvements I think I will go ahead and re-design the interface. Eve
 ![IMG003](https://user-images.githubusercontent.com/45819118/71086442-dd009980-2191-11ea-9d04-b60b4d784e12.PNG)
 
 ![IMG004](https://user-images.githubusercontent.com/45819118/71086443-dd009980-2191-11ea-99d5-6f6ff539e21d.PNG)
+
+### Credits:
+- Gulam Qasim (Author)
