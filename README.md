@@ -77,6 +77,14 @@ In this development phrase, I had completed the application but was finishing of
 
 ### Resources:
 
+
+### Constraints: 
+
+
+### Improvements:
+
+For future improvements I think I will go ahead and re-design the interface. Everything seems too small and clustered together and this will make it hard for people to read the application. Also the application can resize but it effects everything on the screen since the interface isn't resized.
+
 ### Screenshots:
 
 ![IMG001](https://user-images.githubusercontent.com/45819118/71086439-dc680300-2191-11ea-901c-245fe32265bb.PNG)
@@ -86,11 +94,3 @@ In this development phrase, I had completed the application but was finishing of
 ![IMG003](https://user-images.githubusercontent.com/45819118/71086442-dd009980-2191-11ea-9d04-b60b4d784e12.PNG)
 
 ![IMG004](https://user-images.githubusercontent.com/45819118/71086443-dd009980-2191-11ea-99d5-6f6ff539e21d.PNG)
-
-
-### Constraints: 
-
-
-### Improvements:
-
-For future improvements I think I will go ahead and re-design the interface. Everything seems too small and clustered together and this will make it hard for people to read the application. Also the application can resize but it effects everything on the screen since the interface isn't resized.
