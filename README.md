@@ -46,6 +46,7 @@ This information would also allow them to assess if they need parental consent i
 ### Prerequisites:
 - Visual Studio 2017+ (Recommended 2019)
 - Windows 10 (OS)
+- Microsoft Office (Only Need MS Access)
 
 ### Instructions:
 - Step 1: Download Visual Studio (If you don't have already)
