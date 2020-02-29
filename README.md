@@ -1,6 +1,6 @@
 # Student Database
 
-## Student Database using VB.NET & Microsoft Access
+## Student Database - VB.NET & Microsoft Access
 
 
 # Table of Contents:
